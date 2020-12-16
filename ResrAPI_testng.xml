@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RestAPI_Suite">
+  <test thread-count="5" name="RestAPI_Test">
+    <classes>
+      <class name="dummyapiexample.restapi.tests.RestAPIExampleTests"/>
+    </classes>
+  </test> <!-- RestAPI_Test -->
+</suite> <!-- RestAPI_Suite -->
