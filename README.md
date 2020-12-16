@@ -2,4 +2,4 @@
 Automation task for SenecaGlobal task
 Create Selenium task
 Created restAPI task
-Created two seperate testnh.xml files to run test cases
+Created two separate testng.xml files to run test cases
